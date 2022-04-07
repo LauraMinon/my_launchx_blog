@@ -21,9 +21,13 @@ unos problemillas y estuve a punto de abandonar, me encantaron HTML y CSS, pero 
 a ver tutoriales, y les muestro algo de lo que me siento muy orgullosa porque como dije al principio, pasé de solo saber imprimir "Hola Mundo" a programar una pequeña
 Pokédex con HTML, CSS y JS.
 
+<img width="432" alt="pokedexfront"  class="img" src="https://user-images.githubusercontent.com/95551552/162126881-adc41d73-00bf-40c8-8c1e-0ab00c8aa2ae.png">
+
+
 Ahora en la última parte de la misión siento que no sólo estoy adquiriendo conocimientos, sino una nueva perspectiva sobre mí y sobre el mundo de la programación.
 Escuchando la historia de MC Carlo, la verdad es que sentí inspiración y me identifiqué con varias cosas que él dijo durante el primer live, esas palabras
 me recargaron el ánimo, y luego con el detallazo de la portada del WorkBook y el pase de abordar, no bueno, creo que se puede sentir el compromiso que tiene para con
 todos nosotros, y la misión. Sólo me queda decir ¡BackEnd ahí te voy!.
 
-Muchas gracias si leíste hasta aquí, nos vemos en un próximo post.
+Muchas gracias si leíste hasta aquí, nos vemos en un próximo post. :shipit:
+
