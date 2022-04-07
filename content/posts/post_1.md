@@ -1,6 +1,6 @@
 ---
 title: "El inicio de mi viaje en LaunchX"
-date: 2022-03-01
+date: 2022-04-07
 description: 'Todo sobre cómo inicié, decisiones, temores, dudas, todo'
 ---
 
